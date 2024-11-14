@@ -1,0 +1,1 @@
+cobc -x -o /bin/transacoes/transferencia.exe /transacoes/transferencia.cbl

@@ -1,0 +1,1 @@
+cobc -x -o /bin/utils/validacao.exe /utils/validacao.cbl

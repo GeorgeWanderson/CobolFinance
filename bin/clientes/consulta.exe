@@ -1,0 +1,1 @@
+cobc -x -o /bin/clientes/consulta.exe /clientes/consulta.cbl

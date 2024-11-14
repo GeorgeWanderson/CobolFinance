@@ -1,0 +1,1 @@
+cobc -x -o /bin/relatorios/balanco.exe /relatorios/balanco.cbl
